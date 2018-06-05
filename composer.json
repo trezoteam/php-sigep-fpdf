@@ -1,5 +1,5 @@
 {
-    "name": "stavarengo/php-sigep-fpdf",
+    "name": "trezo/php-sigep-fpdf",
     "description": "Unofficial FPDF library - Cópia do FPDF 1.7 usado pelo projeto stavarengo/php-sigep.",
     "license": "MIT",
     "minimum-stability": "dev",
